@@ -55,6 +55,7 @@ $ tar -xzf kafka_2.13-3.7.0.tgz
 $ cd kafka_2.13-3.7.0
 ```
 - Agora você precisa abrir dois terminais um para o ZooKeeper e outro para o Kafka e inserir os comandos:
+
 ZooKeeper:
 ```bash
 $ bin/zookeeper-server-start.sh config/zookeeper.properties
