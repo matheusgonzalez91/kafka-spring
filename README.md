@@ -9,12 +9,12 @@ Este projeto consiste em duas partes que serão executadas em portas diferentes:
 - Spring Boot 3.2.5
 
 ## IDE
-- InteliJ
+- IntelliJ
 
 ## Requisição HTTP
 - API Dog
 
-## Depenências (Spring Boot)
+## Dependências (Spring Boot)
 - Spring Web
 - Spring for Apache Kafka
 - Spring Boot DevTools
